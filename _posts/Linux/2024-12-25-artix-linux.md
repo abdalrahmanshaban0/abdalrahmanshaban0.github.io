@@ -2,7 +2,7 @@
 title: Artix Linux
 classes: wide
 header:
-  teaser: /assets/images/linux/artix.png
+  teaser: /assets/images/Linux/artix.png
 ribbon: DodgerBlue
 description: "Choosing your distro, Artix Linux with suckless tools"
 categories: 
