@@ -2,6 +2,8 @@
 main:
   - title: "DSA"
     url: /categories/#DSA
+  - title: "Linux"
+    url: /categories/#Linux
   #- title: "Binary Exploitation"
    # url: /categories/#binary-exploitation
   #- title: "CTF Writeups"
