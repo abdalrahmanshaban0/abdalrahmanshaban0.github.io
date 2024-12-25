@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cyber-Anubis"
+title                    : "0x3bd043ba6E"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nidal Fikri"
-description              : "Malware Analysis RE"
+name                     : "Abdalrahman Shaban"
+description              : "Software Engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -63,7 +63,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "J3MnMF94zaZhTUoNtUiRt9cKsr7hiMyTxEdAvQ3GfmY"
+google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -85,15 +85,15 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-207369386-2"
+    tracking_id          :
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Nidal Fikri"
+  name             : "Abdalrahman Shaban"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Research Analyst at Recorded Future. Former Trend Micro Intern."
   location         : "The Netherlands"
@@ -101,46 +101,46 @@ author:
   links:
     - label: "About Me"
       icon: "fas fa-fw fa-link"
-      url: "https://cyber-anubis.github.io/aboutme/"
+      url: "https://abdalrahmanshaban0.github.io/aboutme/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nidalfikrikamil@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cyber_anubis"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      url: "mailto:abdalrahmanshaban52@gmail.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/cyber_anubis"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/nidal-fikri-kamil/"
+      url: "https://www.linkedin.com/in/abdalrahman-shaban/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cyber-anubis"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/abdalrahmanshaban0"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
        #url: "https://twitter.com/cyber_anubis"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/abdalrahmanshaban0"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url:
 
 
