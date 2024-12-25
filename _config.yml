@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Abdalrahman Shaban"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "0x3bd043ba6E"
+name                     : "Abdalrahman Shaban"
 description              : "Software Engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdalrahman Shaban"
+  name             : "0x3BD043BA6E"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer"
   location         : "Egypt"
