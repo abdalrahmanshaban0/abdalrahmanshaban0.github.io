@@ -1,8 +1,12 @@
 ---
 title: Artix Linux
-date: 2024-12-25
+classes: wide
+header:
+  teaser: /assets/images/linux/artix.png
+ribbon: DodgerBlue
 categories: [Linux]
-author: Abdalrahman Shaban
+description: "Choosing your distro, Artix Linux with suckless tools"
+toc: true
 ---
 ## Choosing distro
 - It depends on your experience with Linux
