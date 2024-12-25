@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Abdalrahman Shaban"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Malware Research Analyst at Recorded Future. Former Trend Micro Intern."
-  location         : "The Netherlands"
+  bio              : "Software Engineer"
+  location         : "Egypt"
   email            :
   links:
     - label: "About Me"
