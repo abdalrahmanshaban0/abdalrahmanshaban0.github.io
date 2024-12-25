@@ -8,7 +8,6 @@ author: Abdalrahman Shaban
 - It depends on your experience with Linux
 	- Beginner ? Mint : Arch
 - If you know what you're doing, Arch is very very stable.
-
 - Arch with no systemd == Artix
 - Why Arch ? 
 	- Rolling release (No versions, No major upgrades, Bleeding edge)
@@ -17,6 +16,7 @@ author: Abdalrahman Shaban
 	- I noticed it uses more memory and causing some problems.
 	- It's in the sucks page in suckless.
 	- Use runit instead.
+
 ## Little tip for troubleshooting 
 - Open programs in terminal (Ex. Davinci Resolve)
 
