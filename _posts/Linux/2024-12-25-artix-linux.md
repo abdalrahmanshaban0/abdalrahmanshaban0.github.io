@@ -4,11 +4,12 @@ classes: wide
 header:
   teaser: /assets/images/linux/artix.png
 ribbon: DodgerBlue
-categories: [Linux]
 description: "Choosing your distro, Artix Linux with suckless tools"
+categories: 
+  - Linux
 toc: true
 ---
-## Choosing distro
+# Choosing distro
 - It depends on your experience with Linux
 	- Beginner ? Mint : Arch
 - If you know what you're doing, Arch is very very stable.
