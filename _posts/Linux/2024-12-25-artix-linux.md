@@ -2,6 +2,7 @@
 title: Artix Linux
 image: /assets/posts/Linux/artix.png
 categories: [Linux]
+tags: [Linux, Artix Linux]
 ---
 # Choosing distro
 - It depends on your experience with Linux
