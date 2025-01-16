@@ -8,7 +8,7 @@ First we should know about "Complete Binary Tree" as we will use  later.
 Complete binary tree is a binary tree where all of its level are filled completely (perfect) except the last level is filled from left to right.
 A binary tree is **perfect** if all parent nodes have two children and all leaves are on the same level.
 The **level** of a node is the number of edges along the path between it and the root node.
-ff
+
 ![](/assets/posts/DSA/heap1.png)
 
 We'll represent it as an array such that at index 1 is the root, this is the code:
