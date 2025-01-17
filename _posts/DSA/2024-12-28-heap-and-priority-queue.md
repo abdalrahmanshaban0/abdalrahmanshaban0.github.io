@@ -49,7 +49,7 @@ private:
 A heap is a binary tree such that its root is the minimum or maximum or any compare function we choose. The root is less than its children.<br><br>
 ![](/assets/posts/DSA/heap2.png)
 <br><br>
-### Bottom-Up Heap construction:
+### Bottom-Up Heap construction
 ```cpp
 template <typename E, typename C>
 void buildHeap(vector<E> &v) { // 0-index
