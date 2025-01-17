@@ -1,7 +1,7 @@
 ---
 title: Heap and Priority Queue
 categories: [DSA]
-tags: [Data structures and Algorithms, Heap]
+tags: [Data Structures And Algorithms, Heap]
 ---
 First we should know about "Complete Binary Tree" as we will use  later.
 ## Complete Tree
@@ -49,12 +49,12 @@ private:
 A heap is a binary tree such that its root is the minimum or maximum or any compare function we choose. The root is less than its children.<br><br>
 ![](/assets/posts/DSA/heap2.png)
 <br><br>
-### Building a heap:
+### Bottom-Up Heap construction:
 ```cpp
 template <typename E, typename C>
 void buildHeap(vector<E> &v) { // 0-index
   C isLess = C(); // compare function (class with () overload, see below)
-  // Heapify for the oposite of isLess (Heap for the max if isLess was for min)
+  // Heapify for the opposite of isLess (Heap for the max if isLess was for min)
   auto heapify = [&v, &isLess](int idx) -> void {
     int n = v.size();
     while (2 * idx + 1 < n) {
