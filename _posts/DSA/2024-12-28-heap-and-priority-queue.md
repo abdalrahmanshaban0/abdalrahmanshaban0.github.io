@@ -81,7 +81,7 @@ public:
   bool operator()(const int &a, const int &b) const { return a < b; }
 };
 ```
-## Heap Sort
+### Heap Sort
 To sort an array we just need to extract the heap we've just built, as the root is the minimum we'll swap it with the last element. Now the root may be not the minimum right ? heapify.. Now the current root is the next minimum, swap it with the the last-1 element and heapify and so on.
 
 Note: it's !isLess not isLess because we want to sort in ascending order (max at last), so we'll use a max heap not a min heap (root is the max).<br><br>
@@ -124,13 +124,13 @@ template <typename E, typename C> void heapSort(vector<E> &v) {
 ```
 
 You can try this function in any sorting problem online (LeetCode, Codeforces, etc).
-## Priority Queue
+### Priority Queue
 Priority queue is just a heap with keeping the heap property as we insert new elements or remove them.
 ```cpp
 template <typename E, typename C> class HeapPriorityQueue {
 public:
   HeapPriorityQueue() : isLess(C()) {}
-  HeapPriorityQueue(const vector<E> &v) : isLess(C()) { // in place
+  HeapPriorityQueue(const vector<E> &v) : isLess(C()) {
     for (auto &i : v) {
       insert(i);
     }
