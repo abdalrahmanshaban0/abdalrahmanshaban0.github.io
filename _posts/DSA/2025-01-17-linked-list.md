@@ -127,8 +127,8 @@ protected:
 	void remove(DNode<E> *v)
 	{ // remove node v
 		// u <-> v <-> w
-		DNode<E> u = v->prev;
-		DNode<E> w = v->next;
+		DNode<E> *u = v->prev;
+		DNode<E> *w = v->next;
 		u->next = w;
 		w->prev = u;
 		delete v;
