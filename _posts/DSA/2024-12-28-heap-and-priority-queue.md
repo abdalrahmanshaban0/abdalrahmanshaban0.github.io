@@ -185,5 +185,4 @@ private:
 };
 
 ```
-
-Images from [DSA book](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383275). 
+Images from [DSA in C++](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383275) book.
