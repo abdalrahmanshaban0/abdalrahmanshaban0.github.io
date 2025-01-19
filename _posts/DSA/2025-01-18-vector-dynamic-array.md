@@ -11,6 +11,7 @@ How we can extend the array (make it grows)?
 - Create an initial size **capacity** for the array.
 - When number of elements **n** exceeds **capacity**, make a new array of size **2*capacity**, move old array elements to the new one and deallocate the old array's memory.
 ![Resizing Array](/assets/posts/DSA/ArrayVector.png)
+
 ```cpp
 template <typename E>
 class ArrayVector
