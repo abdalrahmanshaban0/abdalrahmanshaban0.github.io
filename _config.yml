@@ -224,5 +224,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-production_url: https://github.com/abdalrahmanshaban0
